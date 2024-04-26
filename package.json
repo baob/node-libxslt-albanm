@@ -30,7 +30,7 @@
   "dependencies": {
     "bindings": "^1.5.0",
     "nan": "~2.18.0",
-    "node1-libxmljsmt-myh": "git+file:../node-20-fix-libxmljsmt-myh#node-20-fix-on-108"
+    "node1-libxmljsmt-myh": "git+https://github.com/baob/node1-libxmljsmt-myh-MrMYHuang#node-20-fix-on-108-from-MrMYHuang-fork"
   },
   "devDependencies": {
     "async": "~3.2.0",
